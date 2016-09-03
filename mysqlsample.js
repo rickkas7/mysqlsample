@@ -42,7 +42,7 @@ cloudEventHandler = function(data) {
 	// console.log("Event", data);
 
 	if (data.name == 'mysqlSample1') {
-		storeData(data.data);
+		storeData(JSON.parse(data.data));
 	}
 }
 
