@@ -15,6 +15,8 @@ The mysqlsample.js file contains the code. Make sure you follow the instructions
 
 Also, edit the config.js file to contain your authorization token and MySQL database name and credentials!
 
+There is another example using [local Wi-Fi only] (https://github.com/rickkas7/mysqlsample-wifi) that can be useful if you're using the Photon on an isolated network, not connected to the Internet.
+
 
 
 
